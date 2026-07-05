@@ -19,11 +19,6 @@ danish-portfolio/
 | Admin Dashboard | `/admin/dashboard` | Protected route — view/search/mark-read/delete/export CSV |
 | 404 | `*` | Any unmatched route |
 
-## 2. Prerequisites
-
-- Node.js 18+
-- A free [MongoDB Atlas](https://www.mongodb.com/atlas) cluster
-- A Gmail account with an [App Password](https://support.google.com/accounts/answer/185833) (SMTP requires 2FA enabled first)
 
 ## 3. Backend Setup
 
