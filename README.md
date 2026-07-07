@@ -67,6 +67,7 @@ Log in to the dashboard at `/admin/login` using the admin credentials from `.env
 
 Private routes require `Authorization: Bearer <token>`.
 
+
 ## 6. Security Implemented
 
 - Password hashing with bcrypt (12 salt rounds)
